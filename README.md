@@ -1,1 +1,1 @@
-# An AI agent for correcting exercise pose
+# An AI agent for correcting exercise poses
