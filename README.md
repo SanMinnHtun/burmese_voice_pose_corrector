@@ -1,2 +1,2 @@
 # An AI agent for correcting exercise poses
-## Biceps Curl &
+## Biceps Curl & Push-up
